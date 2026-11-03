@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Heci Badge",
+    "description": "Shows a small \"heci\" badge in the composer dock, confirming the plugin is loaded."
+  }
+}

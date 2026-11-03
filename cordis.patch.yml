@@ -1,0 +1,5 @@
+# Inserts this bundle's plugin row into the profile tree.
+# The Client half (client.js) does the rendering; the Host half is a no-op.
+- insert:
+    - id: heci-plugin
+      name: '@local/heci-plugin'
