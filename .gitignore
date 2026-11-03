@@ -1,0 +1,40 @@
+# ---- Windows ----
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+*.stackdump
+
+# ---- Office / WPS 临时文件 ----
+~$*
+*.tmp
+*.temp
+*.bak
+.WPS*
+
+# ---- 编辑器 ----
+.vscode/
+.idea/
+*.swp
+*~
+
+# ---- 系统 / 缓存 ----
+.DS_Store
+node_modules/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# ---- 压缩包与大文件（按需删除这几行）----
+*.zip
+*.7z
+*.rar
+*.iso
+
+# ---- 环境变量 / 密钥（重要：别提交）----
+.env
+.env.*
+*.pem
+*.key
